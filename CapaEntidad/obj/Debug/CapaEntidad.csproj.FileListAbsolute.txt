@@ -1,0 +1,6 @@
+D:\Dev Services Web\CourseMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Dev Services Web\CourseMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Dev Services Web\CourseMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\Dev Services Web\CourseMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Dev Services Web\CourseMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Dev Services Web\CourseMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -1,0 +1,192 @@
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\WebGrease.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+D:\Dev Services Web\CourseMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csc.exe
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csc.exe.config
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csc.rsp
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csi.exe
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csi.exe.config
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\csi.rsp
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.AppContext.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Collections.Immutable.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Console.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Globalization.Calendars.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Net.Http.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Net.Sockets.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Reflection.Metadata.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.ValueTuple.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\vbc.exe
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\vbc.exe.config
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\vbc.rsp
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\roslyn\VBCSCompiler.exe.config
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Antlr3.Runtime.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaEntidad.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaNegocio.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\ClosedXML.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\ExcelNumberFormat.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Microsoft.Web.Infrastructure.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Newtonsoft.Json.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.IO.Packaging.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Helpers.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Mvc.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Optimization.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Razor.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\WebGrease.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaDatos.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\ClosedXML.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\ClosedXML.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\DocumentFormat.OpenXml.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\ExcelNumberFormat.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Helpers.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Mvc.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Optimization.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.Razor.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.Deployment.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\System.Web.WebPages.Razor.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Newtonsoft.Json.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Antlr3.Runtime.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\CapaDatos.pdb
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.Helpers.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.Mvc.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.Optimization.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.Razor.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.WebPages.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.AssemblyReference.cache
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CoreCompileInputs.cache
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.csproj.CopyComplete
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
+D:\eCOMMERCE-MR_ROBOT\eComerce-MVC-main\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
